@@ -1,0 +1,54 @@
+ Assets/GPVFX_3D Chess Set.meta                                      |    8 [32m+[m
+ Assets/GPVFX_3D Chess Set/2D.meta                                   |    9 [32m+[m
+ Assets/GPVFX_3D Chess Set/2D/Chess_Pieces Array Black.png           |    3 [32m+[m
+ Assets/GPVFX_3D Chess Set/2D/Chess_Pieces Array Black.png.meta      |  163 [32m+++++++[m
+ Assets/GPVFX_3D Chess Set/2D/Chess_Pieces Array White.png           |    3 [32m+[m
+ Assets/GPVFX_3D Chess Set/2D/Chess_Pieces Array White.png.meta      |  163 [32m+++++++[m
+ Assets/GPVFX_3D Chess Set/2D/Chessboard A_2D.png                    |    3 [32m+[m
+ Assets/GPVFX_3D Chess Set/2D/Chessboard A_2D.png.meta               |  163 [32m+++++++[m
+ Assets/GPVFX_3D Chess Set/2D/Chessboard B_2D.png                    |    3 [32m+[m
+ Assets/GPVFX_3D Chess Set/2D/Chessboard B_2D.png.meta               |  163 [32m+++++++[m
+ Assets/GPVFX_3D Chess Set/2D/HUD_Win Streak.png                     |    3 [32m+[m
+ Assets/GPVFX_3D Chess Set/2D/HUD_Win Streak.png.meta                |  163 [32m+++++++[m
+ Assets/GPVFX_3D Chess Set/2D/Pieces_Solo.meta                       |    9 [32m+[m
+ Assets/GPVFX_3D Chess Set/Chess Set.unity                           | 3378 [32m+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ Assets/GPVFX_3D Chess Set/Chess Set.unity.meta                      |   15 [32m+[m
+ Assets/GPVFX_3D Chess Set/Chess SetSettings.lighting                |   69 [32m+++[m
+ Assets/GPVFX_3D Chess Set/Chess SetSettings.lighting.meta           |    8 [32m+[m
+ Assets/GPVFX_3D Chess Set/Gameplan VFX.meta                         |    9 [32m+[m
+ Assets/GPVFX_3D Chess Set/Gameplan VFX/Cell rings Daylight.png      |    3 [32m+[m
+ Assets/GPVFX_3D Chess Set/Gameplan VFX/Cell rings Daylight.png.meta |   75 [32m+++[m
+ Assets/GPVFX_3D Chess Set/Gameplan VFX/GPVFX_Demo Enviro.mat        |  111 [32m+++++[m
+ Assets/GPVFX_3D Chess Set/Gameplan VFX/GPVFX_Demo Enviro.mat.meta   |   16 [32m+[m
+ Assets/GPVFX_3D Chess Set/Gameplan VFX/Gameplan Logo_Semi.png       |    3 [32m+[m
+ Assets/GPVFX_3D Chess Set/Gameplan VFX/Gameplan Logo_Semi.png.meta  |  163 [32m+++++++[m
+ Assets/Prefabs.meta                                                 |    8 [32m+[m
+ Assets/Resources/Pieces/B_Bishop_2D.png                             |    3 [32m+[m
+ Assets/Resources/Pieces/B_Bishop_2D.png.meta                        |  163 [32m+++++++[m
+ Assets/Resources/Pieces/B_King_2D.png                               |    3 [32m+[m
+ Assets/Resources/Pieces/B_King_2D.png.meta                          |  163 [32m+++++++[m
+ Assets/Resources/Pieces/B_Knight_2D.png                             |    3 [32m+[m
+ Assets/Resources/Pieces/B_Knight_2D.png.meta                        |  163 [32m+++++++[m
+ Assets/Resources/Pieces/B_Pawn_2D.png                               |    3 [32m+[m
+ Assets/Resources/Pieces/B_Pawn_2D.png.meta                          |  163 [32m+++++++[m
+ Assets/Resources/Pieces/B_Queen_2D.png                              |    3 [32m+[m
+ Assets/Resources/Pieces/B_Queen_2D.png.meta                         |  163 [32m+++++++[m
+ Assets/Resources/Pieces/B_Rook_2D.png                               |    3 [32m+[m
+ Assets/Resources/Pieces/B_Rook_2D.png.meta                          |  163 [32m+++++++[m
+ Assets/Resources/Pieces/W_Bishop_2D.png                             |    3 [32m+[m
+ Assets/Resources/Pieces/W_Bishop_2D.png.meta                        |  163 [32m+++++++[m
+ Assets/Resources/Pieces/W_King_2D.png                               |    3 [32m+[m
+ Assets/Resources/Pieces/W_King_2D.png.meta                          |  163 [32m+++++++[m
+ Assets/Resources/Pieces/W_Knight_2D.png                             |    3 [32m+[m
+ Assets/Resources/Pieces/W_Knight_2D.png.meta                        |  163 [32m+++++++[m
+ Assets/Resources/Pieces/W_Pawn_2D.png                               |    3 [32m+[m
+ Assets/Resources/Pieces/W_Pawn_2D.png.meta                          |  163 [32m+++++++[m
+ Assets/Resources/Pieces/W_Queen_2D.png                              |    3 [32m+[m
+ Assets/Resources/Pieces/W_Queen_2D.png.meta                         |  163 [32m+++++++[m
+ Assets/Resources/Pieces/W_Rook_2D.png                               |    3 [32m+[m
+ Assets/Resources/Pieces/W_Rook_2D.png.meta                          |  163 [32m+++++++[m
+ Assets/Sprites/Square.png                                           |    3 [32m+[m
+ Assets/Sprites/Square.png.meta                                      |  173 [32m+++++++[m
+ ProjectSettings/PhysicsCoreProjectSettings2D.asset                  |    6 [32m+[m
+ ProjectSettings/ProjectAuditorSettings.asset                        |   36 [32m++[m
+ 53 files changed, 6924 insertions(+)
